@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin : 0;
+    color: white;
+    font-size: 8vh;
+    font-weight: 900;
+}
+body{
+    background-image: url("bgimage.jpg");
+    background-size: cover;
+}
+
+#img1{
+    height: 40vh;
+    width: 40vh;
+    /* border: 2px solid white ; */
+    margin-top: 40vh;
+    margin-left: 80vh;
+    /* background-image: url("rahu.png");
+    background-size: cover; */
+}
+
+button{
+    margin-left: 80vh;
+    margin-top: 8vh;
+    height: 5vh;
+    width: 15vh;
+    background: linear-gradient(45deg, #ff6b6b, #9c0f40);
+    border-radius: 2vh;
+    font-size: 2vh;
+    font-weight: 100;
+}
